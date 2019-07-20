@@ -1,4 +1,4 @@
-# PiContFuncs
+# PiContFuncs carlos
 
 Generation of continuous fractions identities.
 
